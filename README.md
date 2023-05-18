@@ -19,49 +19,28 @@ Work developed in the data visualization course. With the following objectives:
 > 
 > Extrair insights.
 
-## 📊 About the Data
+## 📊 About the Data and Access
+In this project, two databases were analyzed:
+
+* **Global Temperatures**
+
 This is a dataset about climate change, with Earth Surface Temperature data. Exploring global temperatures since 1750.
 
 >Este é um Dataset sobre mudanças climáticas, com dados de Temperatura da Superfície da Terra. Explorando as temperaturas globais desde 1750.
 
-Global Land and Ocean-and-Land Temperatures (**GlobalTemperatures.csv**):
-
-* Date: starts in 1750 for average land temperature and 1850 for max and min land temperatures and global ocean and land temperatures
-* LandAverageTemperature: global average land temperature in celsius
-* LandAverageTemperatureUncertainty: the 95% confidence interval around the average
-* LandMaxTemperature: global average maximum land temperature in celsius
-* LandMaxTemperatureUncertainty: the 95% confidence interval around the maximum land temperature
-* LandMinTemperature: global average minimum land temperature in celsius
-* LandMinTemperatureUncertainty: the 95% confidence interval around the minimum land temperature
-* LandAndOceanAverageTemperature: global average land and ocean temperature in celsius
-* LandAndOceanAverageTemperatureUncertainty: the 95% confidence interval around the global average land and ocean temperature
-
->Temperaturas terrestres e oceânicas globais ( GlobalTemperatures.csv ):
-
->Data: começa em 1750 para a temperatura média da terra e 1850 para temperaturas máximas e mínimas da terra e temperaturas globais do oceano e da terra
->
->LandAverageTemperature: temperatura média global da terra em celsius
->
->LandAverageTemperatureUncertainty: o intervalo de confiança de 95% em torno da média
->
->LandMaxTemperature: temperatura média global máxima da terra em celsius
->
->LandMaxTemperatureUncertainty: o intervalo de confiança de 95% em torno da temperatura máxima da terra
->
->LandMinTemperature: temperatura média global mínima da terra em celsius
->
->LandMinTemperatureUncertainty: o intervalo de confiança de 95% em torno da temperatura mínima da terra
->
->LandAndOceanAverageTemperature: temperatura média global da terra e do oceano em Celsius
->
->LandAndOceanAverageTemperatureUncertainty: o intervalo de confiança de 95% em torno da temperatura média global da terra e do oceano
-
-## 📁 Access to the Data base
->Acesso ao banco de dados
-
-
-It is possible to download/access the base used of the project through the link:
+📁 It is possible to download/access the base used of the project through the link:
 
 >É possível baixar/acessar a base usada do projeto através do link:
 
 [Data base](https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?datasetId=29&searchQuery=eda)
+
+* **Natural Disaster**
+
+This is a dataset about on the number of reported natural disasters over time.
+>Este é um conjunto de dados sobre o número de desastres naturais relatados ao longo do tempo.
+
+📁 It is possible to download/access the base used of the project through the link:
+>É possível baixar/acessar a base usada do projeto através do link:
+
+Hannah Ritchie, Pablo Rosado and Max Roser (2022) - "Natural Disasters". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/natural-disasters' [Online Resource]
+
